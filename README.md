@@ -10,3 +10,5 @@ Singleton
 - Facade
 
 #### Behavioral Pattern
+- Observer
+- Iterator
